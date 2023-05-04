@@ -7,7 +7,6 @@ public class NightClub {
 
     public Queue<HipHopNightGoers> hipHopNightGoersQueue = new PriorityQueue<>();
 
-    String
     public boolean joinQueue(HipHopNightGoers hipHopNightGoers) {
         return this.hipHopNightGoersQueue.add(hipHopNightGoers);
     }
