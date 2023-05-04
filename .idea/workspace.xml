@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/lambdas/Formulae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/lambdas/LambdaDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/staticFunctions/Formulae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/staticFunctions/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/queue/nightclub/NightClub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/queue/nightclub/NightClub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -59,6 +54,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlk/Documents/2023/Personal Projects/Screenwritr&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -154,6 +150,8 @@
       <workItem from="1678318553311" duration="17372000" />
       <workItem from="1678419855615" duration="9628000" />
       <workItem from="1683004089861" duration="3472000" />
+      <workItem from="1683085691429" duration="139000" />
+      <workItem from="1683204074333" duration="475000" />
     </task>
     <servers />
   </component>
