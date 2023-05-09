@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/hashmap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Mark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Subject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dsa.streams.timetable" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.com.dsa.hashmap.Main">
     <configuration name="Editor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.stack.texteditor.Editor" />
@@ -154,6 +161,7 @@
       <workItem from="1683085691429" duration="139000" />
       <workItem from="1683204074333" duration="475000" />
       <workItem from="1683293000685" duration="103000" />
+      <workItem from="1683631378868" duration="872000" />
     </task>
     <servers />
   </component>
