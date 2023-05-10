@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Mark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/timetable/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlk/Documents/2023/Personal Projects/Screenwritr&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carlk/Documents/2023/Education/Programming/Data Structures &amp; Algorithms/Design-Patterns&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -71,20 +70,7 @@
       <recent name="com.dsa.streams.timetable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dsa.hashmap.Main">
-    <configuration name="Editor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.stack.texteditor.Editor" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.stack.texteditor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.com.dsa.streams.billionairs.Main">
     <configuration name="LambdaDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.lambdas.LambdaDriver" />
       <module name="DSA" />
@@ -137,13 +123,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.dsa.streams.billionairs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.streams.billionairs.Main" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.streams.billionairs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.dsa.streams.billionairs.Main" />
         <item itemvalue="Application.com.dsa.hashmap.Main" />
         <item itemvalue="Application.LambdaDriver" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StackDriver" />
-        <item itemvalue="Application.Editor" />
       </list>
     </recent_temporary>
   </component>
@@ -162,6 +161,7 @@
       <workItem from="1683204074333" duration="475000" />
       <workItem from="1683293000685" duration="103000" />
       <workItem from="1683631378868" duration="872000" />
+      <workItem from="1683697504579" duration="1804000" />
     </task>
     <servers />
   </component>
