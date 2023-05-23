@@ -1,4 +1,4 @@
-package com.dsa.streams.billionairs;
+package com.dsa.streams.billionaires;
 
 import java.util.ArrayList;
 import java.util.List;
