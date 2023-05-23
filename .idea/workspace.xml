@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/Attendance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/Roll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionaires/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dsa/streams/billionairs/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/streams/billionaires/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +74,7 @@
       <recent name="com.dsa.streams.timetable" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.dsa.streams.billionairs.Main">
+  <component name="RunManager" selected="Application.com.dsa.streams.billionaires.Main">
     <configuration name="LambdaDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.lambdas.LambdaDriver" />
       <module name="DSA" />
@@ -123,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dsa.streams.billionairs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.streams.billionairs.Main" />
+    <configuration name="com.dsa.streams.billionaires.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.streams.billionaires.Main" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsa.streams.billionairs.*" />
+          <option name="PATTERN" value="com.dsa.streams.billionaires.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,7 +142,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.dsa.streams.billionairs.Main" />
+        <item itemvalue="Application.com.dsa.streams.billionaires.Main" />
         <item itemvalue="Application.com.dsa.hashmap.Main" />
         <item itemvalue="Application.LambdaDriver" />
         <item itemvalue="Application.Main" />
@@ -161,7 +165,7 @@
       <workItem from="1683204074333" duration="475000" />
       <workItem from="1683293000685" duration="103000" />
       <workItem from="1683631378868" duration="872000" />
-      <workItem from="1683697504579" duration="1804000" />
+      <workItem from="1683697504579" duration="4297000" />
     </task>
     <servers />
   </component>
