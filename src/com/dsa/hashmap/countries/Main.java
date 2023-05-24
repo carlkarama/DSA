@@ -1,9 +1,6 @@
 package com.dsa.hashmap.countries;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.List;
+import java.util.*;
 
 public class Main {
 
@@ -30,6 +27,14 @@ public class Main {
         countries.put("B", B);
         countries.put("C", C);
 
-	
+        // Print all the alphabets of the countries first letter
+        for (String country : countries.keySet()) {
+            System.out.println(country);
+        }
+
+        // Print all the country names
+        for (List country : countries.values()) {
+            System.out.println(country);
+        }
     }
 }
