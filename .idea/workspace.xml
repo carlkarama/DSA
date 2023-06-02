@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/data/AbstractDataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/data/DataAccessObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/data/DataTransferObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/data/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/generics/school/data/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f9f0ac67-0bc5-492a-9e82-63193130dcba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +162,7 @@
       <workItem from="1684840189613" duration="41000" />
       <workItem from="1684840348808" duration="46000" />
       <workItem from="1684930208964" duration="2315000" />
-      <workItem from="1685619470768" duration="527000" />
+      <workItem from="1685619470768" duration="1258000" />
     </task>
     <servers />
   </component>
